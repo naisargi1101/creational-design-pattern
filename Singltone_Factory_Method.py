@@ -1,5 +1,7 @@
 '''
 Singletone Design Pattern: 
+    - It is a way to provide one and only one object of a particular type. 
+    - It involves only one class to create methods and specify the objects. 
 '''
 
 # Method 1: Classic Approach getInstance() method
